@@ -3,6 +3,11 @@ Report Cloth'n'Rent - Lena Maisterrena / Thomas Iozzia / Clement Poisson / Marc 
 
 
 Répartition des taches dans la création du site web Cloth'n'Rent :
+
+  - Thomas, Lena, Marco, Clement
+  . Idee contenu
+  . Brouillon du site
+  
   - Thomas et Léna
   .Codage HTLM / CSS (backgroud/ éléments de contenu/ header/ couleur & typos/ flexbox/ boutons)
   .Design (créa/ images/ typos/ code couleurs/ logo/ visuels)
@@ -10,7 +15,8 @@ Répartition des taches dans la création du site web Cloth'n'Rent :
   .Read me
   
   - Clément et Marco
-  .Éléments du Footer
+  .Éléments du footer
+  .Shooting photo
   
    - Thomas
   .Codage Javascript / PHP (animations responsives/ newsletter/ Login & Logout)
